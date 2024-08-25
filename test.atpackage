@@ -1,0 +1,6 @@
+# Package name: my_awesome_package
+# Description: This is a test package
+# Author: 0alex1010
+
+# Commands to execute:
+python3 -c "def my_awesome_function(): return 'Hello from my_awesome_package!'"
